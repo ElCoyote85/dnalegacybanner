@@ -1,0 +1,187 @@
+		#banner_background { fill: white; }
+		    
+    /*.st0{display:none;}*/
+		
+    .st1{display:inline;}
+    .st2{fill:#732FF6;}
+    .st3{fill:#510FF2;}
+    .st4{fill:#F4318F;}
+    .st5{fill:#A6A0F9;stroke:#000000;stroke-miterlimit:10;}
+    .st6{fill:#F233C1;stroke:#000000;stroke-miterlimit:10;}
+    .st7{fill:#A6A0F9;}
+    .st8{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+		.st9{fill:#E10814;}
+		.st10{fill:#BBCBEA;}
+		.st11{fill:none;stroke:#284596;stroke-linecap:round;stroke-miterlimit:10;}
+		.st12{fill:none;stroke:#E10814;stroke-linecap:round;stroke-linejoin:round;}
+		.st13{fill:#E10814;}
+		.st14{fill:#284596;}
+      
+    /* FRAME 1*/
+    /*#Frame1 {display: none;}*/
+		@keyframes Frame1{ 
+			0%, 25%, 100%  { opacity: 0; }
+			3%, 22% { opacity: 1; }
+		 }
+    @keyframes slide_right {
+      0%, 20% { transform: translateX(0px); }
+      25%, 100% { transform: translateX(100px); }
+    }
+    @keyframes slide_left {
+      0%, 20% { transform: translateX(0px); }
+      25%, 100% { transform: translateX(-100px); }
+    }
+    @keyframes slideup_color {
+      0%, 20% { transform: translateX(0px); fill: white;}
+      25%, 100% { transform: translateY(-200px); fill: red;}
+    }
+    @keyframes slidedown_color {
+      0%, 20% { transform: translateX(0px); fill: white;}
+      25%, 100% { transform: translateY(200px); fill: red;}
+    }
+    #Frame1 {
+      fill: white;
+			animation: Frame1 20s ease-out infinite;
+    }
+    #Frame1 #g1, #Frame1 #g3, #Frame1 #g5 {
+      animation: slideup_color 20s ease-out infinite;
+    }
+    #Frame1 #g2, #Frame1 #g4 {
+      animation: slidedown_color 20s ease-out infinite;
+    }
+    #Fr1_rect1 {
+			fill: url(#Fr1_rect1_grad);
+      animation: slide_right 20s ease-out infinite;
+    }
+    #Fr1_rect2 {
+			fill: #e10000;
+      animation: slide_left 20s ease-out infinite;
+    }
+    
+    
+    
+    /* FRAME 2*/
+    /*#Frame2{ display: none; }*/
+    @keyframes scaledown_logo {
+      0%, 25%, 49%, 100% { transform: scale(3); opacity: 0; }
+      30%, 45% { transform: scale(1); opacity: 1; }
+    }
+    @keyframes logo_back_rect{
+      0%, 25%, 49%, 100% { transform: translateY(200px); opacity: 0;}
+      30%, 45% { transform: translateY(0px); opacity: 1;}
+    }
+    @keyframes logo_back_circle{
+      0%, 25%, 49%, 100% { transform:  scale(1);  opacity: 0;}
+      30%, 45% { transform: scale(20); opacity: 1;}
+    }
+    #Frame2 { 
+      
+    }
+    
+    #logo {
+      transform-origin: 50% 50%;
+      animation: scaledown_logo 20s cubic-bezier(.17,.67,.46,1.54) infinite;
+    }
+    #logo_back rect {
+      fill: #ccf;
+      animation: logo_back_rect 20s ease-out infinite;
+    }
+    
+    #logo_back circle {
+      transform-origin: 50% 50%;
+      fill: white;
+      animation: logo_back_circle 20s ease-out infinite;
+    }
+    
+    /* FRAME 3*/
+    /*#Frame3{ display: none; }*/
+    @keyframes circle_1 {
+      0%, 50%, 75%, 100% { transform: translate(200px, 200px); }
+      55%, 70% { transform: translate(0px, 0px);}
+    }
+    @keyframes circle_2 {
+      0%, 50%, 75%, 100% { transform: translate(-200px, 200px); }
+      55%, 70% { transform: translate(0px, 0px);}
+    }
+    @keyframes circle_3 {
+      0%, 50%, 75%, 100% { transform: translate(-200px, -200px); }
+      55%, 70% { transform: translate(0px, 0px);}
+    }
+    
+    @keyframes Fr3_text {
+      0%, 50%, 75%, 100% { transform: translate(-150px, 150px); }
+      55%, 70% { transform: translate(0px, 0px);}
+    }
+    
+    #circle_1 {
+      fill: #A6A0F9;
+      animation: circle_1 20s ease-out infinite;
+    }
+    #circle_2 {
+			fill: rgb(95, 145, 225);
+      animation: circle_2 20s ease-out infinite;
+    }
+    #circle_3 {
+      fill: #A6A0F9;
+      animation: circle_3 20s ease-out infinite;
+    }
+    #g1_1_, #g2_1_, #g3_1_ {
+      fill: white;
+      animation: Fr3_text 20s cubic-bezier(.17,.67,.46,1.64)  infinite;
+    } 
+    
+    /* FRAME 4*/
+    /*#Frame4{ display: none; }*/
+    @keyframes male-ani {
+      0%, 75%, 100% {transform: translateX(-50px);}
+      80%, 95% {transform: translateX(0px);}
+    }
+    @keyframes female-ani {
+      0%, 75%, 100% {transform: translateX(50px);}
+      80%, 95% {transform: translateX(0px);}
+    }
+    @keyframes bottom_males {
+      0%, 75%, 100% {transform: translateY(100px); opacity: 0}
+      80%, 95% {transform: translateY(0px); opacity: 1;}
+    }
+    @keyframes arrows_circles {
+      0%, 75%, 100% {transform: scale(4); opacity: 0}
+      80%, 95% {transform: scale(1); opacity: 1;}
+    }
+    @keyframes Fr4_back {
+      0%, 75%, 100% { opacity: 0}
+      80%, 95% {  opacity: 1 }
+    }
+		@keyframes genetic {
+      0%, 75%, 100% { transform: rotate(90deg) scale(0.1); opacity: 0}
+      80%, 93% {  transform: rotate(0) scale(1); opacity: 1 }
+    }
+    @keyframes passport {
+      0%, 77%, 100% { transform: rotate(90deg) scale(0.1); opacity: 0}
+      82%, 95% {  transform: rotate(0) scale(1); opacity: 1 }
+    }
+    #Fr4_back {
+      animation: Fr4_back 20s cubic-bezier(.17,.67,.46,1.54) infinite;
+    }
+    #male {
+      animation: male-ani 20s cubic-bezier(.17,.67,.46,1.54) infinite;
+    }
+    #female {
+      animation: female-ani 20s cubic-bezier(.17,.67,.46,1.54) infinite;
+    }
+		#male_1_ { fill: #284596; }
+    #male_1_, #male_2_, #male_3_, #female_2_ {
+      animation: bottom_males 20s cubic-bezier(.17,.67,.46,1.54) infinite;
+    }
+    #arrows, #topCircles, #bottomCircles {
+      transform-origin: 50%;
+      animation: arrows_circles 20s cubic-bezier(.17,.67,.46,1.54) infinite;
+    }
+		#genetic {
+      /*fill: red;*/
+      animation: genetic 20s cubic-bezier(.17,.67,.46,1.54) infinite;
+    }
+    #passport {
+      /*fill: white;*/
+      animation: passport 20s cubic-bezier(.17,.67,.46,1.54) infinite;
+    }
