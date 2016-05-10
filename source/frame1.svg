@@ -1,198 +1,36 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="190"
-   height="380"
-   viewBox="0 0 190 380.00001"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="frame1.svg"
-   inkscape:export-filename="C:\web\dnalegacy\banner\source\frame1png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <defs
-     id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4444">
-      <stop
-         style="stop-color:#e10000;stop-opacity:1"
-         offset="0"
-         id="stop4446" />
-      <stop
-         style="stop-color:#8c231e;stop-opacity:1"
-         offset="1"
-         id="stop4448" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4444"
-       id="linearGradient4450"
-       x1="90.408653"
-       y1="860.84686"
-       x2="90.408653"
-       y2="1050.7555"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="-66.914081"
-     inkscape:cy="211.08893"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-672.3621)">
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3336"
-       style="font-style:normal;font-weight:normal;font-size:80px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0,-294.09449)"><flowRegion
-         id="flowRegion3338"><rect
-           id="rect3340"
-           width="545.48236"
-           height="127.27922"
-           x="60.609154"
-           y="227.20764"
-           style="font-size:80px" /></flowRegion><flowPara
-         id="flowPara3342"></flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3344"
-       style="font-style:normal;font-weight:normal;font-size:80px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0,-294.09449)"><flowRegion
-         id="flowRegion3346"><rect
-           id="rect3348"
-           width="549.52301"
-           height="149.50258"
-           x="52.527931"
-           y="174.67972"
-           style="font-size:80px" /></flowRegion><flowPara
-         id="flowPara3350"></flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3352"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0,-294.09449)"><flowRegion
-         id="flowRegion3354"><rect
-           id="rect3356"
-           width="563.6651"
-           height="125.25892"
-           x="52.527931"
-           y="182.76094" /></flowRegion><flowPara
-         id="flowPara3358"></flowPara></flowRoot>    <rect
-       id="rect3624"
-       width="190"
-       height="380"
-       x="0"
-       y="672.36206"
-       style="fill:url(#linearGradient4450);fill-opacity:1" />
-    <g
-       id="g3612"
-       style="fill:#ffffff"
-       transform="translate(0.96150135,0)">
-      <text
-         transform="scale(0.92584886,1.0800899)"
-         sodipodi:linespacing="125%"
-         id="g1"
-         y="701.26819"
-         x="4.1485262"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.70629501px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"
-         inkscape:label="#text3360"><tspan
-           y="701.26819"
-           x="4.1485262"
-           id="tspan3362"
-           sodipodi:role="line">УЗНАТЬ</tspan></text>
-      <text
-         transform="scale(0.81561225,1.2260728)"
-         sodipodi:linespacing="125%"
-         id="g2"
-         y="667.19513"
-         x="1.3794863"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.50238419px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"
-         inkscape:label="#text3360-4"><tspan
-           y="667.19513"
-           x="1.3794863"
-           id="tspan3362-1"
-           sodipodi:role="line">ИСТОРИЮ</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.91649628px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="2.1323738"
-         y="817.38824"
-         id="g3"
-         sodipodi:linespacing="125%"
-         transform="scale(0.9303017,1.0749201)"
-         inkscape:label="#text3546"><tspan
-           sodipodi:role="line"
-           id="tspan3548"
-           x="2.1323738"
-           y="817.38824">СВОЕГО</tspan></text>
-      <text
-         transform="scale(1.1098254,0.90104263)"
-         sodipodi:linespacing="125%"
-         id="g4"
-         y="1038.397"
-         x="-1.2216544"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.39122391px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"
-         inkscape:label="#text3550"><tspan
-           y="1038.397"
-           x="-1.2216544"
-           id="tspan3552"
-           sodipodi:role="line">РОДА</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.0092659px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="0.24902165"
-         y="928.75885"
-         id="g5"
-         sodipodi:linespacing="125%"
-         transform="scale(0.93226689,1.0726542)"
-         inkscape:label="#text3554"><tspan
-           sodipodi:role="line"
-           id="tspan3556"
-           x="0.24902165"
-           y="928.75885">ПО ДНК</tspan></text>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="C:\web\dnalegacy\banner\source\frame1png" inkscape:export-xdpi="90" inkscape:export-ydpi="90" inkscape:version="0.91 r13725" sodipodi:docname="frame1.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 190 380"
+	 style="enable-background:new 0 0 190 380;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#rect3624_1_);}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'Arial-BoldMT';}
+	.st3{font-size:47.2067px;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="-66.914081" inkscape:cy="211.08893" inkscape:document-units="px" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="1.979899" pagecolor="#ffffff" showgrid="false" showguides="true" units="px">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-672.3621)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<g id="flowRoot3336" transform="translate(0,-294.09449)">
+	</g>
+	<g id="flowRoot3344" transform="translate(0,-294.09449)">
+	</g>
+	<g id="flowRoot3352" transform="translate(0,-294.09449)">
+	</g>
+	
+		<linearGradient id="rect3624_1_" gradientUnits="userSpaceOnUse" x1="95" y1="193.5153" x2="95" y2="3.6066" gradientTransform="matrix(1 0 0 -1 0 1054.3622)">
+		<stop  offset="0" style="stop-color:#E10000"/>
+		<stop  offset="1" style="stop-color:#8C231E"/>
+	</linearGradient>
+	<rect id="rect3624" y="672.4" class="st0" width="190" height="380"/>
+	<g id="g3612" transform="translate(0.96150135,0)">
+		<text transform="matrix(0.9692 0 0 1 5.7612 754.3238)" class="st1 st2 st3">УЗНАТЬ</text>
+		<text transform="matrix(0.7467 0 0 1 3.0434 814.92)" class="st1 st2 st3">ИСТОРИЮ</text>
+		<text transform="matrix(0.921 0 0 1 3.9023 875.5176)" class="st1 st2 st3">СВОЕГО</text>
+		<text transform="matrix(1.3802 0 0 1 0.5629 932.5303)" class="st1 st2 st3">РОДА</text>
+		<text transform="matrix(1.0133 0 0 1 2.1508 993.128)" class="st1 st2 st3">ПО ДНК</text>
+	</g>
+</g>
 </svg>

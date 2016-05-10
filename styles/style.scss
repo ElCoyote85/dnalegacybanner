@@ -43,15 +43,12 @@
 			animation: Frame1 20s ease-out infinite;
     }
     #Frame2 {
-      // fill: white;
 			animation: Frame2 20s ease-out infinite;
     }
     #Frame3 {
-      // fill: white;
 			animation: Frame3 20s ease-out infinite;
     }
     #Frame4 {
-      // fill: white;
 			animation: Frame4 20s ease-out infinite;
     }
     
@@ -158,9 +155,13 @@
       animation: circle_3 20s ease-out infinite;
     }
     #g1_1_, #g2_1_, #g3_1_ {
-      fill: rgb(65, 125, 195);;
+      /*fill: rgb(65, 125, 235);*/
+      fill: #2288ff;
       animation: Fr3_text 20s cubic-bezier(.17,.67,.46,1.64)  infinite;
     } 
+    #g1_1_ {
+      transform: scale(0.8);
+    }
     
     /* FRAME 4*/
     /*#Frame4{ display: none; }*/
