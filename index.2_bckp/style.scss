@@ -1,16 +1,7 @@
-
-
 		#banner_background { fill: white; }
 		    
     /*.st0{display:none;}*/
-    $lightValTop: 10%;
-    $lightVal: 13%;
-    .grad1 {stop-color: lighten(#E94E1B, $lightValTop);}
-    .grad2 {stop-color: lighten(#E84A1B, $lightValTop);}
-    .grad3 {stop-color: lighten(#E63F19, $lightValTop);}
-    .grad4 {stop-color: lighten(#E42B16, $lightValTop);}
-    .grad5 {stop-color: lighten(#E10814, $lightVal);}
-
+		
     .st1{display:inline;}
     .st2{fill:#732FF6;}
     .st3{fill:#510FF2;}
@@ -18,17 +9,14 @@
     .st5{fill:#A6A0F9;stroke:#000000;stroke-miterlimit:10;}
     .st6{fill:#F233C1;stroke:#000000;stroke-miterlimit:10;}
     .st7{fill:#A6A0F9;}
-    .st7-female{fill: #e9580e;}
-    .st7-male{fill: #0ba329;}
     .st8{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
 		.st9{fill:#E10814;}
-		.st10{fill: #e9b305;}
-		.st10-text{fill: #572a1d;}
-		.st11{fill:none;stroke:#006f65;stroke-linecap:round;stroke-miterlimit:10;}
-		.st12{fill:none;stroke:#e9580e;stroke-linecap:round;stroke-linejoin:round;}
-		.st13{fill:#e9580e;}
-		.st14{fill:#006f65;}
-        #f4t1, #f4t2, #f4t3 {fill: #E10814}
+		.st10{fill:#BBCBEA;}
+		.st10{fill:#BBCBEA;}
+		.st11{fill:none;stroke:#284596;stroke-linecap:round;stroke-miterlimit:10;}
+		.st12{fill:none;stroke:#E10814;stroke-linecap:round;stroke-linejoin:round;}
+		.st13{fill:#E10814;}
+		.st14{fill:#284596;}
       
      /* ALL FRAMES */ 
     @keyframes Frame1{ 
@@ -96,7 +84,7 @@
       animation: slide_right 20s ease-out infinite;
     }
     #Fr1_rect2 {
-			fill: lighten(#E10814, $lightVal);
+			fill: #e10000;
       animation: slide_left 20s ease-out infinite;
     }
     
@@ -126,13 +114,12 @@
     }
     #logo_back rect {
       fill: #ccf;
-      fill: white;
       animation: logo_back_rect 20s ease-out infinite;
     }
     
     #logo_back circle {
       transform-origin: 50% 50%;
-      fill: #ffd79c;
+      fill: white;
       animation: logo_back_circle 20s ease-out infinite;
     }
     
@@ -157,20 +144,20 @@
     }
     
     #circle_1 {
-      fill: #94ee94;
+      fill: #D1CFF3;
       animation: circle_1 20s ease-out infinite;
     }
     #circle_2 {
-      fill: #fae066;
+			fill: #ADC8F3;
       animation: circle_2 20s ease-out infinite;
     }
     #circle_3 {
-      fill: #89dd89;
+      fill: #D1CFF3;
       animation: circle_3 20s ease-out infinite;
     }
     #g1_1_, #g2_1_, #g3_1_ {
       /*fill: rgb(65, 125, 235);*/
-      fill: #7a391c;
+      fill: #2288ff;
       animation: Fr3_text 20s cubic-bezier(.17,.67,.46,1.64)  infinite;
     } 
     #g1_1_ {
@@ -223,11 +210,7 @@
     #female {
       animation: female-ani 20s cubic-bezier(.17,.67,.46,1.54) infinite;
     }
-		#male_1_ { fill: #31623b; }
-        #male_2_ { fill: #0ba329; }
-        #male_3_ { fill: #0ba329; }
-        #female_2_ { fill: #e9580e; }
-
+		#male_1_ { fill: #284596; }
     #male_1_, #male_2_, #male_3_, #female_2_ {
       animation: bottom_males 20s cubic-bezier(.17,.67,.46,1.54) infinite;
     }

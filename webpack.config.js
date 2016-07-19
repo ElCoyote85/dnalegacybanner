@@ -19,7 +19,7 @@ module.exports = {
         test: /\.scss$/,
         include: /styles/,
         // loader: ExtractTextPlugin.extract("style!css?minimize!autoprefixer?browsers=last 5 versions!sass")
-        loader: ExtractTextPlugin.extract(  "style", "css?minimize!autoprefixer?browsers=last 5 versions")
+        loader: ExtractTextPlugin.extract(  "style", "css?minimize!autoprefixer?browsers=last 5 versions!sass")
       }
     ]
   },
